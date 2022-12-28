@@ -1,0 +1,6 @@
+<plugin
+    id="HelloWorld"
+    description="This is your classic Hello World plugin."
+    provider="ShelLuser"
+    class="org.test.vp.hello"
+/>
